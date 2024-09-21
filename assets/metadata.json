@@ -1,4 +1,6 @@
 {
   "version":"0.1",
+  "dev_version":"0.2",
+  "working":true,
   "blog_path": "/blogs/"
 }

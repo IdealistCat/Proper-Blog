@@ -1,4 +1,4 @@
 {
-  "version":"0.1"
-  "blogs":1
+  "version":"0.1",
+  "blog_path": "/blogs/"
 }

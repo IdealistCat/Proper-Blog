@@ -1,7 +1,7 @@
 {
-  "version":"0.1.1",
-  "dev_version":"0.1.2",
-  "working":true,
+  "version":"0.1.2",
+  "dev_version":"0.1.3",
+  "working":false,
   "rDate":"9.21.2024",
   "blog_path": "/blogs/"
 }

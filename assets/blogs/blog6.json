@@ -4,6 +4,7 @@
   "description": "BLOG MAKER",
   "release": "9.21.2024",
   "max_vert": 1,
+  "tool":"Blog Maker v1",
   "blog": [
     "Made using",
     "Blog Maker!!!",

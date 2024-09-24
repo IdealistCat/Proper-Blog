@@ -16,6 +16,7 @@
       "omg",
       ""
     ], // what do you think?
-    "tool":"School Ipad" // what you used to make the blog
+    "tool":"School Ipad", // what you used to make the blog
+    "blogVersion": 2 // count the edits
   }
   

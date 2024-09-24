@@ -6,5 +6,6 @@
   "tool":"my hands",
   "blog": [
     "testing blog", "lol"
-  ]
+  ],
+  "blogVersion": 3
 }

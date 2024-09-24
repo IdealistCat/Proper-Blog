@@ -19,5 +19,6 @@
     "that is about it",
     "bye bye"
   ],
-  "tool":"Blog Maker (v1.2)"
+  "tool":"Blog Maker (v1.2)",
+  "blogVersion": 2
 }

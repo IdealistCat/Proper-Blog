@@ -17,6 +17,7 @@
       ""
     ], // what do you think?
     "tool":"School Ipad", // what you used to make the blog
-    "blogVersion": 2 // count the edits
+    "blogVersion": 2, // count the edits
+    "textColor": "000000" // what do you think
   }
   

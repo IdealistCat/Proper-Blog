@@ -1,0 +1,21 @@
+{
+    "title":"Oh my god guys. IM IN SCHOOL", // what do you think?
+    "author":"IdealistCat", // what do you think?
+    "description":"school guys, its school. I am in school!!!", // what do you think?
+    "release":"9.24.2024", // date ur computer shows but with . instead of /
+    "max_vert":0, // Length of Blog minus 8, dont go into negatives
+    "link":"", // click the copy link button and this will go into the clipboard if you are in turbowarp
+    "blog":
+    [
+      "oh my god guys",
+      "im in schoool",
+      "",
+      "how dare I be in school guys?",
+      "I am a disapointment",
+      "I should have skipped school guys",
+      "omg",
+      ""
+    ], // what do you think?
+    "tool":"School Ipad" // what you used to make the blog
+  }
+  

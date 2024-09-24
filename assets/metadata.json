@@ -2,6 +2,7 @@
   "version":"0.1.4.1",
   "dev_version":"0.1.5",
   "working":false,
-  "rDate":"9.21.2024",
-  "blog_path": "/blogs/"
+
+  "blog_path": "/blogs/",
+  "todo": "/todo.json"
 }

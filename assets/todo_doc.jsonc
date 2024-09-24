@@ -1,0 +1,12 @@
+[
+    {
+        "content": "Add TODO Page", // obvious
+        "completed": false, // obvious
+        "priority_type": "m" // minor
+    },
+    {
+        "content": "Figure out how to do the bg Images", // line 3
+        "completed": false, // line 4
+        "priority_type": "M" // MAJOR
+    }
+]

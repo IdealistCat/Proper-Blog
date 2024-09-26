@@ -3,10 +3,9 @@
     "author":"IdealistCat",
     "description":"this blog exists????",
     "release":"9.26.2024",
-    "max_vert":2,
+    "max_vert":1,
     "link":"",
-    "blog":
-    [
+    "blog":[
       "I forgot about this 4 a bit",
       "lol",
       "",
@@ -18,5 +17,5 @@
       "right?"
     ],
     "tool":"School Ipad",
-    "blogVersion": 3
+    "blogVersion": 4
   }

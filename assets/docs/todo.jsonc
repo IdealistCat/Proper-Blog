@@ -2,6 +2,7 @@
     {
         "content": "Add TODO Page", // obvious
         "completed": false, // obvious
-        "priority_type": "m" // m = minor, M = MAJOR
+        "priority_type": "m", // m = minor, M = MAJOR
+        "expected_version":"0.1.5" // obvious
     }
 ]

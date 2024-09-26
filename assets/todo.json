@@ -2,16 +2,19 @@
     {
         "content": "Add TODO Page",
         "completed": false,
-        "priority_type": "m"
+        "priority_type": "m",
+        "expected_version":"0.1.5"
     },
     {
         "content": "Find something to do with the blogVersion key",
         "completed": false,
-        "priority_type": "m"
+        "priority_type": "m",
+        "expected_version":"0.1.5"
     },
     {
         "content": "Figure out how to do the bg Images",
         "completed": false,
-        "priority_type": "M"
+        "priority_type": "M",
+        "expected_version":"0.1.5"
     }
 ]

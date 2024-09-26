@@ -1,0 +1,7 @@
+[
+    {
+        "content": "Add TODO Page", // obvious
+        "completed": false, // obvious
+        "priority_type": "m" // m = minor, M = MAJOR
+    }
+]
